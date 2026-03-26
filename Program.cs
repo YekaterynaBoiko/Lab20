@@ -9,6 +9,9 @@
 
             // Блок обчислень
             Console.WriteLine("Тут будуть результати:");
+            int a = 10;
+            int b = 20;
+            Console.WriteLine($"Сума: {a + b}");
         }
     }
 }
