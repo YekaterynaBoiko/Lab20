@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // Блок привітання
+            Console.WriteLine("Ласкаво просимо до Калькулятора!");
+
+            // Блок обчислень
+            Console.WriteLine("Тут будуть результати:");
         }
     }
 }
